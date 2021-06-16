@@ -1,0 +1,32 @@
+List of Devices,MAC ADDRESS,Connection Type,Manufacture,Usage
+Smart Things ,d0:52:a8:00:67:5e,Wired,SmartThings,Computer
+Amazon Echo ,44:65:0d:56:cc:d3,Wireless,Amazone,Others
+Netatmo Welcome ,70:ee:50:18:34:43,Wireless,Netatmo,Monitor
+TP-Link Day Night Cloud camera ,f4:f2:6d:93:51:f1,Wireless,TP-Link,Monitor
+Samsung SmartCam ,00:16:6c:ab:6b:88,Wireless,Samsung,Monitor
+Dropcam ,30:8c:fb:2f:e4:b2,Wireless,Google,Monitor
+Insteon Camera ,00:62:6e:51:27:2e,Wired ,Insteon,Monitor
+Insteon Camera2,e8:ab:fa:19:de:4f,Wireless,Insteon,Monitor
+Withings Smart Baby Monitor ,00:24:e4:11:18:a8,Wired,Withings,Monitor
+Belkin Wemo switch ,ec:1a:59:79:f4:89,Wireless,Belkin,Others
+TP-Link Smart plug ,50:c7:bf:00:56:39,Wireless,TP-Link,Others
+iHome ,74:c6:3b:29:d7:1d,Wireless,Apple,Others
+Belkin wemo motion sensor ,ec:1a:59:83:28:11,Wireless,Belkin,Monitor
+NEST Protect smoke alarm ,18:b4:30:25:be:e4,Wireless,Nest,Monitor
+Netatmo weather station ,70:ee:50:03:b8:ac,Wireless,Netatmo,Monitor
+Withings Smart scale ,00:24:e4:1b:6f:96,Wireless,Withings,Monitor
+Blipcare Blood Pressure meter ,74:6a:89:00:2e:25,Wireless,Blipcare,Monitor
+Withings Aura smart sleep sensor ,00:24:e4:20:28:c6,Wireless,Withings,Monitor
+Light Bulbs LiFX Smart Bulb ,d0:73:d5:01:83:08,Wireless,Lifx,Others
+Triby Speaker ,18:b7:9e:02:20:44,Wireless,Triby,Others
+PIX-STAR Photo-frame ,e0:76:d0:33:bb:85,Wireless,Pixstar,Others
+HP Printer ,70:5a:0f:e4:9b:c0,Wireless,HP,Others
+Samsung Galaxy Tab,08:21:ef:3b:fc:e3,Wireless,Samsung,Computer
+Nest Dropcam,30:8c:fb:b6:ea:45,Wireless,Nest,Monitor
+Android Phone,40:f3:08:ff:1e:da,Wireless,Google,Computer
+Laptop,74:2f:68:81:69:42,Wireless,Google,Computer
+MacBook,ac:bc:32:d4:6f:2f,Wireless,Apple,Computer
+Android Phone,b4:ce:f6:a7:a3:c2,Wireless,Google,Computer
+IPhone,d0:a6:37:df:a1:e1,Wireless,Apple,Computer
+MacBook/Iphone,f4:5c:89:93:cc:85,Wireless,Apple,Computer
+TPLink Router Bridge LAN (Gateway),14:cc:20:51:33:ea,Wired,TP-Link,Others
