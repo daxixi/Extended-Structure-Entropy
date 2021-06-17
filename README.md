@@ -3,7 +3,7 @@ The detailed information can be reffered to the report
 
 The code is an API of calculating the purposed entropy of a networkx graph
 ## Dataset
-Three dataset is selected, [UNSW](https://iotanalytics.unsw.edu.au/iottraces.html), [Eucore email](http://snap.stanford.edu/data/email-Eu-core.html) and [facebook](ttp://snap.stanford.edu/data/ego-Facebook.html) dataset, the detailed information can be reffered to the report.
+Three dataset is selected, [UNSW](https://iotanalytics.unsw.edu.au/iottraces.html), [Eucore email](http://snap.stanford.edu/data/email-Eu-core.html) and [facebook](http://snap.stanford.edu/data/ego-Facebook.html) dataset, the detailed information can be reffered to the report.
 
 For each dataset, the example format of input file is given in the decption folder under each dataset
 ## Directed and weighted structural entropy
