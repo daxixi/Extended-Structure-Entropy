@@ -1,5 +1,5 @@
 # Extend Structure Entropy of Graph to Weighted and Directed Graph under communites
-The detailed information can be reffered to the report
+The detailed information can be reffered to the [report](https://github.com/daxixi/Extended-Structure-Entropy/blob/main/report.pdf)
 
 The code is an API of calculating the purposed entropy of a networkx graph
 ## Dataset
