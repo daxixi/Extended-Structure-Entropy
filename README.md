@@ -2,6 +2,12 @@
 The detailed information can be reffered to the [report](https://github.com/daxixi/Extended-Structure-Entropy/blob/main/report.pdf)
 
 The code is an API of calculating the purposed entropy of a networkx graph
+## Highlights
+Highlights of our contributions include but are not limited to:
+* we are the first to find the problem of device identification and propose anti device detection algorithms
+* We extend the structral entropy to weighted and directed graphs and use it to construct the safety index
+* We derive the deception algorithm based on such index
+
 ## Dataset
 Three dataset is selected, [UNSW](https://iotanalytics.unsw.edu.au/iottraces.html), [Eucore email](http://snap.stanford.edu/data/email-Eu-core.html) and [facebook](http://snap.stanford.edu/data/ego-Facebook.html) dataset, the detailed information can be reffered to the report.
 
